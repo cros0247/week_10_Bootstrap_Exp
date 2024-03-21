@@ -39,3 +39,18 @@
     background: white url(../images/main-banner.jpg) no-repeat center center;
     background-size: cover;
 }
+
+.vision {
+    background: black url(../images/vision.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.display-3 {
+    font-weight: 500;
+}
+
+.about-us img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
